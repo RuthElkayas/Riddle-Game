@@ -3,6 +3,24 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "description": "A terminal game that asks the player riddles, measures how long each riddle took, and shows statistics at the end.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RuthElkayas/Riddle-Game.git"
+  },
+  "keywords": [],
+  
+  "author": "Ruth Elkayis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuthElkayas/Riddle-Game.git"
+  },
+  "homepage": "https://github.com/RuthElkayas/Riddle-Game.git"
 }

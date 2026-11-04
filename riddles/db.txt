@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Easy Math",
+    "taskDescription": "What is 5 + 3?",
+    "correctAnswer": "8",
+    "difficulty": "easy",
+    "timeLimit": 15,
+    "hint": "It's one less than 9."
+  },
+  {
+    "id": 2,
+    "name": "Programming Logic",
+    "taskDescription": "What keyword is used to declare a constant in JS?",
+    "correctAnswer": "const",
+    "difficulty": "medium",
+    "timeLimit": 20,
+    "hint": "It's short for 'constant'."
+  },
+  {
+    "id": 3,
+    "name": "Colors",
+    "taskDescription": "What color do you get by mixing blue and yellow?",
+    "correctAnswer": "green",
+    "difficulty": "easy",
+    "timeLimit": 15,
+    "hint": "It's the color of grass."
+  },
+  {
+    "id": 4,
+    "name": "Simple Riddle",
+    "taskDescription": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+    "correctAnswer": "echo",
+    "difficulty": "hard",
+    "timeLimit": 30,
+    "hint": "You hear it in mountains and caves."
+  },
+  {
+    "id": 5,
+    "name": "Logic",
+    "taskDescription": "A farmer has 17 sheep. All but 9 run away. How many sheep are left?",
+    "correctAnswer": "9",
+    "difficulty": "medium",
+    "timeLimit": 20,
+    "hint": "Read 'all but 9' carefully."
+  },
+  {
+    "id": 6,
+    "name": "Calendar",
+    "taskDescription": "How many days are in a week?",
+    "correctAnswer": "7",
+    "difficulty": "easy",
+    "timeLimit": 15,
+    "hint": "Count from Sunday to Saturday."
+  },
+  {
+    "id": 7,
+    "name": "Multiplication",
+    "taskDescription": "What is 12 * 12?",
+    "correctAnswer": "144",
+    "difficulty": "medium",
+    "timeLimit": 20,
+    "hint": "It's 12 squared, a bit less than 150."
+  },
+  {
+    "id": 8,
+    "name": "Music",
+    "taskDescription": "What has keys but can't open locks?",
+    "correctAnswer": "piano",
+    "difficulty": "hard",
+    "timeLimit": 30,
+    "hint": "It's a musical instrument."
+  },
+  {
+    "id": 9,
+    "name": "Footsteps",
+    "taskDescription": "The more you take, the more you leave behind. What am I?",
+    "correctAnswer": "footsteps",
+    "difficulty": "hard",
+    "timeLimit": 30,
+    "hint": "Think about walking on the sand."
+  }
+]
